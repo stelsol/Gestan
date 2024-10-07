@@ -54,10 +54,14 @@ body{
 .content-box {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start; 
     width: 50%;
-    height: 100%;
+    height: calc(100vh - 130px); 
+    margin-top: 20px; 
+    padding-top: 10px;
+    box-sizing: border-box;
 }
+
 
 .content-box .form-box {
     width: 50%; 
@@ -68,7 +72,7 @@ body{
     font-weight: 600;
     font-size: 2em;
     text-transform: uppercase;
-    padding-bottom: 5px;
+    padding-bottom: 3px; /**/
     text-align: center;
 }
 .line{
@@ -77,11 +81,11 @@ body{
     height: 2px;
     background-color: #0D13AD;
     margin: auto;
-    margin-bottom: 30px;
+    margin-bottom: 14px;
 }
 
 .content-box .form-box .input-box {
-    margin-bottom: 20px;
+    margin-bottom: 3px;
 }
 
 .content-box .form-box .input-box input {
