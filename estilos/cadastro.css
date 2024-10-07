@@ -103,7 +103,7 @@ body{
 
 .content-box .form-box .input-box span {
     font-size: 16px;
-    margin-bottom: 4px;
+    margin-bottom: 5px;
     display: inline-block;
     color: #32324f;
     font-weight: 400;
@@ -135,7 +135,7 @@ body{
 
 .content-box .form-box .input-box p {
     color: #32324f;
-    margin-top: 3px;
+    margin-top: 5px;
     text-align: center;
 }
 .content-box .form-box .input-box p a{
