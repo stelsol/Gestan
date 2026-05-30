@@ -1,2 +1,2 @@
 # GestanCopia
- Trabalho de  Graduação
+ Trabalho desenvolvido para a conclusão da Graduação - Fatec
